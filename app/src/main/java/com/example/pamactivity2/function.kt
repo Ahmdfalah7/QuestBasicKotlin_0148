@@ -27,9 +27,3 @@ fun withReturn(panjang : Int, lebar : Int) : Int {
      return (panjang * lebar)
 }
 
-fun main(){
-    withoutParameter()
-    withParameter("John")
-    withNamedArgument(name = "john", age = 30)
-    withDefaultParameter(age = 25)
-}
