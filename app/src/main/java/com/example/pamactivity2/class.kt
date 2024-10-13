@@ -11,7 +11,7 @@ fun main() {
     println(contact.email)
 
     // updates the value of the property: email
-    contact.email = "jane@gmail.com"
+    contact.email = "janee@gmail.com"
 
     // Prints the new value of the property: email
     println(contact.email)
